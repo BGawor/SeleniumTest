@@ -4,7 +4,7 @@
 * Word file with answers to excersize 1 and 3
 
 ## General info
-This project contains solutions to excersizes given by Pix4D for purpose of testing QA skills.
+This project contains solutions to excersizes for purpose of testing QA skills.
 	
 ## Technologies
 Project is created with:
