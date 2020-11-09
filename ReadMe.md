@@ -1,7 +1,6 @@
 ## Table of contents
 * Python script with automated test case
 * Source code for the script
-* Word file with answers to excersize 1 and 3
 
 ## General info
 This project contains solutions to excersizes for purpose of testing QA skills.
