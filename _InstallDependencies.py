@@ -11,3 +11,4 @@ try:
 	print"installed " + module
 except ImportError:
 	subprocess.call("pip install " + module)
+	​
